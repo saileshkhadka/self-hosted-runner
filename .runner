@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "GHOST",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/V3hkm3XUQ9d0HVuZzBLwu3mAUfXcwN0xbfV3ZJhAm7VFXeerQ2",
+  "gitHubUrl": "https://github.com/saileshkhadka/self-hosted-runner",
+  "workFolder": "_work"
+}
